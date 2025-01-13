@@ -1,1 +1,1 @@
-In this project I developed a machine learning model using Gradient Boosting to predict whether employees will meet Key Performance Indicators (KPIs) based on job-related and personal features
+This project analyzes employee performance and engagement data to identify top performers, factors influencing employee retention, and predict turnover, with insights and recommendations for improving retention strategies, employee development, and performance management.
